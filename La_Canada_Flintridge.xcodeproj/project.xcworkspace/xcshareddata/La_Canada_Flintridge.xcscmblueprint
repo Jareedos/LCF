@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "616BA2EB6B96F537AF5D5EBFE6AE897FF46A2EED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D0C04B1B2A58587B0BBCB0A549E7CDFE42E87364" : 0,
+    "616BA2EB6B96F537AF5D5EBFE6AE897FF46A2EED" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "56D9D47D-C71A-440D-92E0-F551C4AF5551",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D0C04B1B2A58587B0BBCB0A549E7CDFE42E87364" : "",
+    "616BA2EB6B96F537AF5D5EBFE6AE897FF46A2EED" : "La_Canada_Flintridge\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "La_Canada_Flintridge",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "La_Canada_Flintridge.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Jareedos\/LCF.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "616BA2EB6B96F537AF5D5EBFE6AE897FF46A2EED"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Jareedos\/myCity.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D0C04B1B2A58587B0BBCB0A549E7CDFE42E87364"
+    }
+  ]
+}
